@@ -3,7 +3,7 @@
 # -----------------------------
 
 def napechatat_privet(name):
-    """"Print Privet"""
+    """Print Privet"""
     print("Wish You all the best!!!" + name)
     print("Hello hello hello")
 
@@ -13,7 +13,7 @@ def summa(x, y):
 
 
 def factorial(i):
-    """calculate factorial of number A"""
+    """calculate factorial of number I"""
     otvet = 1
     for i in range(1, i + 1):
         otvet = otvet * i
